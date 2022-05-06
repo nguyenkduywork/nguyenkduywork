@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Kim Duy Nguyen
-- 👀 I’m interested in video games (Programming/Playing) and Crypto/Web3. I'm also very fond of watching movies with friends and families.
-- 🌱 I’m currently learning computer science in France. I'm also studying C# for Unity by myself.
-- 💞️ I’m looking to collaborate on a Unity game project for beginners
+- 👀 I’m interested in video games (Programming/Playing) and Crypto/Web3.
 - 📫 https://www.linkedin.com/in/duynguyenkim/
 - 📫 https://nguyenkduy.itch.io/
