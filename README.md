@@ -9,3 +9,19 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+
+<h3> Interests: </h3>
+<ul>
+  <li> Blockchain </li>
+  <li> Data Science/Analytics </li>
+  <li> Games development </li>
+</ul>
+
+### Contacts
+
+<a href="https://www.linkedin.com/in/duynguyenkim"> LinkedIn </a>
+<p> nguyenkduywork@gmail.com </p>
+
+### Games development
+
+<a href="https://nguyenkduy.itch.io"> My games </a>
