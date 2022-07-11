@@ -13,7 +13,7 @@
 <h3> Interests: </h3>
 <ul>
   <li> Blockchain </li>
-  <li> Data Science/Analytics </li>
+  <li> Data Science/Analytics/Engineer </li>
   <li> Games development </li>
 </ul>
 
