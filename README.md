@@ -1,5 +1,5 @@
 <h1> Kim Duy NGUYEN </h1>
-<h3> Upcoming Master's Student in Data Science & AI at DSTI </h3>
+<h3> Master's Student in Data Engineering at DSTI </h3>
 
 ### Languages
 
