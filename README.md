@@ -1,7 +1,11 @@
-<h1> Kim Duy NGUYEN </h1>
-<h3> Master's Student in Data Engineering at DSTI </h3>
+# Kim Duy NGUYEN
+### Master's Student in Data Engineering at DSTI
 
-### Languages
+---
+
+I'm currently diving deep into the world of data, exploring the intricacies of Data Engineering, and aspiring to bridge the gap between raw data and meaningful insights. When I'm not crunching numbers, you might find me crafting virtual worlds in my game development projects.
+
+#### Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -10,18 +14,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C#](https://img.shields.io/badge/C%23-C%20sharp-blue)
 
-<h3> Interests: </h3>
-<ul>
-  <li> Blockchain </li>
-  <li> Data Science/Analytics/Engineering </li>
-  <li> Games development </li>
-</ul>
+#### I'm passionate about:
 
-### Contacts
+- 🌐 Blockchain technology and its potential to revolutionize industries
+- 📊 Data Science, Analytics, and Engineering - turning data into decisions
+- 🎮 Game development - from concept to playable experiences
 
-<a href="https://www.linkedin.com/in/duynguyenkim"> LinkedIn </a>
-<p> nguyenkduywork@gmail.com </p>
+#### Let's Connect!
 
-### Games development
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Duy%20Nguyen-blue?logo=linkedin)](https://www.linkedin.com/in/duynguyenkim)
+📧 nguyenkduywork@gmail.com
 
-<a href="https://nguyenkduy.itch.io"> My games </a>
+#### Check out my games:
+
+[![Itch.io](https://img.shields.io/badge/Itch.io-My%20Games-orange?logo=itch.io)](https://nguyenkduy.itch.io)
