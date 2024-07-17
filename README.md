@@ -1,9 +1,9 @@
 # Kim Duy NGUYEN
-### Master's Student in Data Engineering at DSTI
+### Master's Student in Data Engineering for Artificial Intelligence at DSTI - School of Engineering
 
 ---
 
-I'm currently diving deep into the world of data, exploring the intricacies of Data Engineering, and aspiring to bridge the gap between raw data and meaningful insights. When I'm not crunching numbers, you might find me crafting virtual worlds in my game development projects.
+With a focus on Data/Analytics Engineering and Data Science/Analysis, I enjoy working with data, making a high-performance pipeline (ELT, ETL) and extract useful insights out of them. In my freetime, I sometimes develop Video games using Unity or Web based games using Python / Flask. Also very interested in Blockchain technologies.
 
 #### Languages and Tools:
 
