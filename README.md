@@ -1,5 +1,5 @@
 # Kim Duy NGUYEN
-### Master's Student in Data Engineering for Artificial Intelligence at DSTI - School of Engineering
+### Analytics Engineer at DigitaLinkers - Equancy
 
 ---
 
