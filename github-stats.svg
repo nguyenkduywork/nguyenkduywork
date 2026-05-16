@@ -1,0 +1,51 @@
+<svg width="410" height="165" viewBox="0 0 410 165" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kim Duy NGUYEN GitHub stats</title>
+  <desc id="desc">GitHub profile stats for nguyenkduywork, generated from GitHub API data.</desc>
+  <style>
+    .card { fill: #1a1b27; }
+    .title { fill: #70a5fd; font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .subtitle { fill: #38bdf8; font: 500 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .metric-label { fill: #9ca3af; font: 500 10px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; text-transform: uppercase; }
+    .metric-value { fill: #bf91f3; font: 700 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .accent { stroke: #38bdf8; stroke-width: 2; stroke-linecap: round; opacity: 0.85; }
+    .muted { fill: #7dd3fc; font: 500 10px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; opacity: 0.9; }
+  </style>
+  <rect class="card" width="410" height="165" rx="6" />
+  <path class="accent" d="M24 44H386" />
+  <text class="title" x="24" y="30">Kim Duy NGUYEN</text>
+  <text class="subtitle" x="386" y="30" text-anchor="end">@nguyenkduywork</text>
+  
+            <g transform="translate(34 64)">
+              <text class="metric-label" x="0" y="0">Public repos</text>
+              <text class="metric-value" x="0" y="18">11</text>
+            </g>
+            <g transform="translate(214 64)">
+              <text class="metric-label" x="0" y="0">Total stars</text>
+              <text class="metric-value" x="0" y="18">3</text>
+            </g>
+            <g transform="translate(34 93)">
+              <text class="metric-label" x="0" y="0">Forks</text>
+              <text class="metric-value" x="0" y="18">3</text>
+            </g>
+            <g transform="translate(214 93)">
+              <text class="metric-label" x="0" y="0">2026 contributions</text>
+              <text class="metric-value" x="0" y="18">196</text>
+            </g>
+            <g transform="translate(34 122)">
+              <text class="metric-label" x="0" y="0">Pull requests</text>
+              <text class="metric-value" x="0" y="18">0</text>
+            </g>
+            <g transform="translate(214 122)">
+              <text class="metric-label" x="0" y="0">Issues</text>
+              <text class="metric-value" x="0" y="18">0</text>
+            </g>
+            <g transform="translate(34 151)">
+              <text class="metric-label" x="0" y="0">Followers</text>
+              <text class="metric-value" x="0" y="18">4</text>
+            </g>
+            <g transform="translate(214 151)">
+              <text class="metric-label" x="0" y="0">Open issues</text>
+              <text class="metric-value" x="0" y="18">0</text>
+            </g>
+  <text class="muted" x="386" y="149" text-anchor="end">Updated May 16, 2026</text>
+</svg>
