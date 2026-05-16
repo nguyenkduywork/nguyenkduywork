@@ -61,7 +61,6 @@ Current mode
 ## GitHub Pulse
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/nguyenkduywork/nguyenkduywork/output/github-stats.svg" alt="GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=nguyenkduywork&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
@@ -71,16 +70,6 @@ Current mode
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nguyenkduywork&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
-</p>
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenkduywork/nguyenkduywork/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenkduywork/nguyenkduywork/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/nguyenkduywork/nguyenkduywork/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 ## Featured Direction
