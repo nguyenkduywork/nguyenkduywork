@@ -61,7 +61,7 @@ Current mode
 ## GitHub Pulse
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nguyenkduywork&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/nguyenkduywork/nguyenkduywork/output/github-stats.svg" alt="GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=nguyenkduywork&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
