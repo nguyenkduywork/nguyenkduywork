@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <a href="https://ideas-in-residence-kimdu.kimzoui.chatgpt.site"><strong>Explore my portfolio — Ideas in Residence</strong></a><br />
+  A scroll through an inhabited 3D high-rise: projects, experience, and a rooftop city view.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/duynguyenkim">
     <img src="https://img.shields.io/badge/LinkedIn-Duy%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
