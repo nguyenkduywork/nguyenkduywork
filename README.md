@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ideas-in-residence-kimdu.kimzoui.chatgpt.site"><strong>Explore my portfolio — Ideas in Residence</strong></a><br />
+  <a href="https://portfolio-kimduy-nguyen.kimzoui.chatgpt.site"><strong>Explore my portfolio — Ideas in Residence</strong></a><br />
   A scroll through an inhabited 3D high-rise: projects, experience, and a rooftop city view.
 </p>
 
